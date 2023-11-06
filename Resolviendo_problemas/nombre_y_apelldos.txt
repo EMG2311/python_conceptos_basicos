@@ -1,0 +1,10 @@
+Los datos son:
+Nomre: german
+Apellido: monti
+----------
+Nomre: matias
+Apellido: rubio
+----------
+Nomre: lautaro
+Apellido: godoy
+----------
